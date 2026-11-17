@@ -4,7 +4,7 @@ const appList = [
     name: "Loon",
     id: "1373567447",
     country: "US",
-    localVer: "3.5.2"
+    localVer: "3.5.3"
   }
 ];
 
