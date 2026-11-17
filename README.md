@@ -10,3 +10,5 @@ AppStore应用更新监控
 
 部分地区代码
 CN 中国 |US 美国 |HK 香港| JP 日本 |KR 韩国| 
+
+![效果图](./img/IMG_6039.png)
